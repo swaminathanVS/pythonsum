@@ -1,1 +1,8 @@
 https://www.guru99.com/python-tutorials.html
+https://www.guvi.in/blog/power-bi-project-ideas/
+https://learn.microsoft.com/en-us/power-bi/create-reports/sample-datasets
+
+
+https://www.geeksforgeeks.org/python-pandas-dataframe/
+https://www.geeksforgeeks.org/python-numpy/
+https://www.geeksforgeeks.org/matplotlib-step-by-step-guide/
