@@ -6,3 +6,6 @@ https://learn.microsoft.com/en-us/power-bi/create-reports/sample-datasets
 https://www.geeksforgeeks.org/python-pandas-dataframe/
 https://www.geeksforgeeks.org/python-numpy/
 https://www.geeksforgeeks.org/matplotlib-step-by-step-guide/
+
+https://chatgpt.com/share/67d1124b-64ec-800b-a2a0-c15fb24726bb
+(Sorting algorithms in Python)
